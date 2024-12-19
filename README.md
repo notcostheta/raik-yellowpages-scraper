@@ -16,8 +16,8 @@ This project scrapes business data from Yellow Pages and saves it to a CSV file.
 
 1. Clone the repository:
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/notcostheta/raik-yellowpages-scraper
+    cd raik-yellowpages-scraper
     ```
 
 2. Install the required Python packages:
@@ -34,7 +34,7 @@ This project scrapes business data from Yellow Pages and saves it to a CSV file.
 
 1. Open the 
 
-fullthing.py
+main.py
 
  file and modify the 
 
@@ -57,7 +57,7 @@ max_pages
 
 2. Run the script:
     ```sh
-    python fullthing.py
+    python main.py
     ```
 
 3. The scraped data will be saved to 
@@ -79,7 +79,7 @@ To scrape restaurant data from San Francisco, CA, and save it to a CSV file:
 
 2. Run the script:
     ```sh
-    python fullthing.py
+    python main.py
     ```
 
 3. The data will be saved to 

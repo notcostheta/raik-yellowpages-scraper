@@ -1,0 +1,31 @@
+Type,Name,Address,Rating,Review Count,Telephone,Opening Hours,Country,Timezone,Valid
+LocalBusiness,Scoma's Restaurant,1965 Al Scoma Way,3.5,3.0,(415) 800-1901,"['Mo-We 11:30-21:00', 'Th-Sa 11:30-21:30', 'Su 11:30-21:00']","San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Fog Harbor Fish House,39 Pier,,,(415) 969-2010,['Mo-Su 11:00-21:00'],California,"('America/Los_Angeles',)",True
+LocalBusiness,Restaurant Gary Danko,800 N Point St,4.5,21.0,(415) 749-2060,['Mo-Su 17:30-22:00'],"San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Mama's On Washington Square,1701 Stockton St,5.0,7.0,(415) 362-6421,['Tu-Su 08:00-15:00'],"San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Boulevard,1 Mission St,4.5,4.0,(415) 543-6084,"['Mo-Th 11:30-22:00', 'Fr 11:30-22:30', 'Sa 17:30-22:30', 'Su 17:30-22:00']","San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Hog Island Oyster Company,1 Ferry Building,,,(415) 391-7117,['Mo-Su 11:00-21:00'],"San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Hollywood Cafe,530 N Point St,4.5,7.0,(415) 563-3779,['Mo-Su 07:00-13:45'],"San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Boudin Sourdough Bakery & Cafe,2890 Taylor St,,,(415) 776-1849,['Mo-Su 11:00-20:00'],"San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Tadich Grill,240 California St,4.5,2.0,(415) 391-1849,"['Mo-Fr 11:00-21:30', 'Sa 11:30-21:30']","San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Tony's Pizza Napoletana,1570 Stockton St,5.0,1.0,(415) 835-9888,"['Mo 12:00-22:00', 'We-Su 12:00-23:00']","San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Kokkari Estiatorio,200 Jackson St,5.0,3.0,(415) 981-0983,"['Mo-Th 11:30-22:00', 'Fr 11:30-23:00', 'Sa 17:00-23:00', 'Su 17:00-22:00']","San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Sotto Mare Oysteria & Seafood,552 Green St,4.5,2.0,(415) 398-3181,['Mo-Sa 11:30-21:30'],"San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,House Of Prime Rib,1906 Van Ness Ave,4.5,33.0,(415) 885-4605,"['Mo-Th 17:30-22:00', 'Fr 17:00-22:00', 'Sa-Su 16:00-22:00']","San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,The Codmother Fish and Chips,496 Beach St,5.0,15.0,(415) 606-9349,"['Mo-Tu 11:30-19:00', 'Th-Fr 11:30-19:00', 'Sa 11:30-20:00', 'Su 11:30-19:00']",California,"('America/Los_Angeles',)",True
+LocalBusiness,Grand Hyatt San Francisco,345 Stockton St,5.0,13.0,(415) 398-1234,['Mo-Su'],"San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Fogo de Chão Brazilian Steakhouse,201 3rd St Ste 100,,,(415) 427-0004,"['Mo-Th 11:30-22:00', 'Fr-Sa 11:30-22:30', 'Su 11:00-21:00']",California,"('America/Los_Angeles',)",True
+LocalBusiness,Fino Restaurant,624 Post St,5.0,4.0,(415) 928-2080,['Mo-Su 17:00-22:00'],"San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Pat's Cafe,2330 Taylor St,5.0,2.0,(415) 776-8735,['Mo-Su 07:30-14:30'],"San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Pacific Catch,2027 Chestnut St,5.0,2.0,(415) 440-1950,['Mo-Su 11:00-21:00'],"San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Taylor Street Coffee Shop,375 Taylor St,5.0,1.0,(415) 567-4031,['Mo-Su 07:00-14:00'],"San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Sam's Diner,1220 Market St,5.0,1.0,(415) 626-8590,['Mo-Su 07:00-22:00'],"San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Seven Hills,1896 Hyde St,5.0,5.0,(415) 775-1550,"['We-Th 17:30-21:30', 'Fr-Sa 17:00-22:00', 'Su 17:00-21:30']","San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Yank Sing - Rincon Center,101 Spear St,4.0,7.0,(415) 781-1111,"['Mo-Fr 11:00-15:00', 'Sa-Su 10:00-16:00']","San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Sweet Maple,2101 Sutter St,5.0,2.0,(415) 655-9169,['Mo-Su 08:00-15:00'],"San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,State Bird Provisions,1529 Fillmore St,5.0,1.0,(415) 795-1272,"['Mo-Th 17:30-22:00', 'Fr-Sa 17:30-23:00', 'Su 17:30-22:00']",California,"('America/Los_Angeles',)",True
+LocalBusiness,The St. Regis San Francisco,125 3rd St,,,(415) 284-4000,"['Mo-Fr 06:30-14:00', 'Sa-Su 07:00-14:00']","San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Perbacco,230 California St,,,(415) 955-0663,"['We-Fr 12:00-19:00', 'Sa 15:30-19:00']",California,"('America/Los_Angeles',)",True
+LocalBusiness,Greens Restaurant,Bldg-a Fort Mason,,,(415) 771-6222,"['Mo 17:30-21:00', 'Tu-Fr 11:45-21:00', 'Sa 11:00-21:00', 'Su 10:30-21:00']","San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Honey Honey Cafe & Crepery,597 Post St,5.0,8.0,(415) 351-2423,['Mo-Su 07:30-22:00'],"San Francisco, CA","('America/Los_Angeles',)",True
+LocalBusiness,Nob Hill Cafe,1152 Taylor St,,,(415) 776-6500,['Mo-Su 11:00-22:00'],"San Francisco, CA","('America/Los_Angeles',)",True
