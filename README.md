@@ -34,21 +34,8 @@ This project scrapes business data from Yellow Pages and saves it to a CSV file.
 
 1. Open the 
 
-main.py
+    `main.py` file and modify the `search_terms`, `location`, and `max_pages` variables as needed:
 
- file and modify the 
-
-search_terms
-
-, 
-
-location
-
-, and 
-
-max_pages
-
- variables as needed:
     ```python
     search_terms = "AI+Consultants"
     location = "San+Francisco%2C+CA"
@@ -62,13 +49,11 @@ max_pages
 
 3. The scraped data will be saved to 
 
-business_data.csv
-
- in the project directory.
+   `business_data.csv` in the project directory.
 
 ## Example
 
-To scrape restaurant data from San Francisco, CA, and save it to a CSV file:
+To scrape AI Consultant data from San Francisco, CA, and save it to a CSV file:
 
 1. Set the search terms and location:
     ```python
@@ -84,9 +69,7 @@ To scrape restaurant data from San Francisco, CA, and save it to a CSV file:
 
 3. The data will be saved to 
 
-business_data.csv
-
-.
+`business_data.csv` in the project directory.
 
 ## Notes
 
